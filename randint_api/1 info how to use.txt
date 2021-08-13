@@ -1,0 +1,12 @@
+
+inside your "function.MCFUNCTION" file do the following to get some randomness to it
+
+set your RNG range <from, to> using:
+	/scoreboard players set min RNG_77 0   <from>
+	/scoreboard players set max RNG_77 100 < to >
+
+run RNG :
+	/function fafik77:rng/rand
+
+your number is stored, can be quarried using :
+	/scoreboard players get number RNG_77

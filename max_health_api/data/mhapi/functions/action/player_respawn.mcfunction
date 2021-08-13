@@ -1,0 +1,1 @@
+execute as @a if score @s mhapi.dtimer matches 65 run function mhapi:run

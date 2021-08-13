@@ -1,0 +1,20 @@
+{
+    "criteria": {
+        "hit_success": {
+            "trigger": "minecraft:entity_hurt_player",
+            "conditions": {
+                "damage": {
+                    "type": {
+                        "source_entity": {
+                            "type": "minecraft:player",
+                            "nbt": "{Tags:[\"taro\"]}"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "hob:action/hit_success"
+    }
+}

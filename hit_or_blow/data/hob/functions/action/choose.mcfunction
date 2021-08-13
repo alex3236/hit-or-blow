@@ -1,0 +1,1 @@
+execute as @r[tag=!taro,limit=1] run function hob:action/title_chosen
