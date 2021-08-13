@@ -6,7 +6,7 @@ A Minecraft datapack - Hit someone or blowing up.
 
 ## Usage
 1. Download all files.
-2. Copy 3 folders to `<Minecraft Map Folder>/datapacks`
+2. Copy 3 folders to `<World folder>/datapacks`
 3. Reload your game
 4. Enjoy
 
