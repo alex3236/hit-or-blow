@@ -1,2 +1,15 @@
 # hit-or-blow
-(Minecraft Datapack) Hit someone or blowing up.
+A Minecraft datapack - Hit someone or blowing up.
+
+## Demo Video
+[av334860669](https://b23.tv/av334860669)
+
+## Usage
+1. Download all files.
+2. Copy 3 folders to `<Minecraft Map Folder>\datapacks`
+3. Reload your game
+4. Enjoy
+
+## Commands
+`/function hob:enable` Enable.
+`/function hob:disable` Disable.
